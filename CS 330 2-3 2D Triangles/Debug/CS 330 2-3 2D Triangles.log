@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CS 330 2-3 2D Triangles.vcxproj, CS 330 3-3 3D Pyramid.vcxproj, CS 330 4-3 Basic Camera Movement.vcxproj, CS 330 4-5 Interactivity of a 3D Scene.vcxproj, CS 330 5-5 Texturing Objects in a 3D Scene.vcxproj, CS 330 6-5 Lighting Complex Objects.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Screa\source\repos\CS 330 7-1 Final Project\CS 330 2-3 2D Triangles\Source.cpp(477,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Screa\source\repos\CS 330 7-1 Final Project\CS 330 2-3 2D Triangles\Source.cpp(629,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Screa\source\repos\CS 330 7-1 Final Project\CS 330 2-3 2D Triangles\Source.cpp(630,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Screa\source\repos\CS 330 7-1 Final Project\CS 330 2-3 2D Triangles\Source.cpp(634,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Screa\source\repos\CS 330 7-1 Final Project\CS 330 2-3 2D Triangles\Source.cpp(635,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Screa\source\repos\CS 330 7-1 Final Project\CS 330 2-3 2D Triangles\Source.cpp(637,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Screa\source\repos\CS 330 7-1 Final Project\CS 330 2-3 2D Triangles\Source.cpp(638,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Screa\source\repos\CS 330 7-1 Final Project\CS 330 2-3 2D Triangles\Source.cpp(647,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CS 330 2-3 2D Triangles.vcxproj -> C:\Users\Screa\source\repos\CS 330 7-1 Final Project\Debug\CS 330 7-1 Final Project.exe
